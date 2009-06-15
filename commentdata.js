@@ -1,3 +1,8 @@
+/*
+ * commentData
+ * Author: James Padolsey
+ */
+
 var commentData = (function(){
     
     var getAllComments = function(context) {
